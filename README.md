@@ -1,4 +1,4 @@
-Introduction and Abstract:
+Introduction and Abstract: 
 Hypothesis testing is crucial for assessing credit risk and calibrating rating systems. Two-sided tests can detect both over- and underestimation of credit risk. Regulators and risk-averse investors primarily care about underestimating risk, requiring one-sided tests. Established one-sided tests individually evaluate rating classes and aggregate the results. Individual rating class tests may overlook the underperformance of the entire rating system. Joint tests that assess all rating classes simultaneously improve detection capability. Joint tests use Sterne’s method (1954), ranking outcomes by probability for multiple classes.
 
 Fundamental Concepts of Hypothesis Testing:
